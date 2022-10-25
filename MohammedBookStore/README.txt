@@ -1,5 +1,5 @@
-﻿// Mhammed Qaasim Desai 
-// 0776412 
+﻿------------------------------------- Assignment 2 README -------------------------------
+
 
 19 oct 2022 
 
@@ -14,3 +14,10 @@
 1048 Tring to run the project 
 1049 works perfectly now going on next 
 1050 creating the github repo..
+
+25 oct 2022 
+
+1114 removed the flag (options => options.SignIn.RequireConfirmedAccount = true) form the startup.cs file line 33.
+1121 build the app and ran it.... IT works perfctly!!
+1125 Reviewed the github and uppdating the readme.md inside the github 
+1126 ALL DONE FOR THE DAY.
